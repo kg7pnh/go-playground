@@ -1,4 +1,6 @@
-# rpgutilities-site-golang
+# go-playground
+
+A small wiki web app in Go, built by following the [Writing Web Applications](https://go.dev/doc/articles/wiki/) tutorial.
 
 ## Releases
 
